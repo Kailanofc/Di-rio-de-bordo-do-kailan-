@@ -9,7 +9,18 @@ criaCartao(
     'Qual foi o custo total dessa viagem por pessoa e qual a modalidade de aquisição?', 
     'Passagem aérea
 
-h '
+Ida e volta Brasil-Turquia (Istambul): Entre R$4.000 e R$7.000, dependendo da época e promoções.
+    
+Hospedagem
+Hostels: R$100 - R$200 por noite.
+Hotéis médios: R$250 - R$600 por noite.
+Hotéis de luxo: A partir de R$1.000 por noite.
+    
+Alimentação
+Refeição simples: 40 a 80 TRY (≈ R$7 - R$15).
+Refeição em restaurante médio: 100 a 200 TRY (≈ R$18 - R$36).
+Comida de rua (kebabs, pães): 20 a 50 TRY (≈ R$4 - R$9). '
+    
 )
 
 criaCartao(
