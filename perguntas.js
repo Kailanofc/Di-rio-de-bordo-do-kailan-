@@ -26,7 +26,12 @@ Comida de rua (kebabs, pães): 20 a 50 TRY (≈ R$4 - R$9). '
 criaCartao(
     'Fato Curioso', 
     'Uma curiosidade sobre cidade/ponto turístico/país cisitado!', 
-    'Informar através de um breve texto uma curiosidade.'
+    'Melhor época para visitar:
+Primavera (abril a junho) e outono (setembro a novembro) têm clima agradável.
+Moeda: Lira Turca (TRY). É recomendado levar dólares ou euros para trocar.
+Roupas: Respeite os costumes locais, especialmente em mesquitas, onde é necessário cobrir ombros e joelhos.
+Idioma: O turco é a língua oficial, mas muitas pessoas falam inglês em áreas turísticas..'
+    
 )
 
 criaCartao(
