@@ -31,7 +31,7 @@ criaCartao(
 criaCartao(
     'Passeios', 
     'Onde passear?', 
-    'Informar os locais, breve resumo do que são.'
+    'Istambul.'
 )
 
 criaCartao(
