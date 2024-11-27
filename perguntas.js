@@ -43,7 +43,26 @@ criaCartao(
 criaCartao(
     'Prato Típico', 
     'Conhece o "nome do prato"?', 
-    'Explicar sobre o prato, porque o escolheu e o ingrediente principal.'
+    'Um dos pratos típicos mais famosos da Turquia é o Kebab, especialmente o "Adana Kebab",
+    que é um tipo de espeto de carne moída bem temperada, geralmente feita de carne de cordeiro
+    ou uma mistura com carne bovina. É conhecido pelo sabor intenso e pelo uso de especiarias aromáticas..'
+        Receita de Adana Kebab
+
+Rendimento: 4 porções
+Tempo de preparo: 40 minutos (mais 1 hora para marinar)
+
+Ingredientes
+
+500g de carne de cordeiro ou bovina moída (de boa qualidade e com um pouco de gordura)
+1 cebola grande ralada
+2 dentes de alho picados
+1 colher de chá de páprica doce
+1 colher de chá de páprica picante (opcional)
+1 colher de chá de cominho moído
+1 colher de chá de pimenta-do-reino
+1 colher de chá de sal
+1 colher de sopa de pimenta vermelha triturada (opcional, para quem gosta de picância)
+2 colheres de sopa de salsa fresca picada
 )
 
 criaCartao(
