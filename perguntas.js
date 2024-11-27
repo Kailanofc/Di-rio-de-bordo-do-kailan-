@@ -68,5 +68,27 @@ Ingredientes
 criaCartao(
     'Ponto de Vista', 
     'O que eu achei da viagem para ...?', 
-    'Informar através de um breve texto sobre o que achou da viagem, o que faria de diferente e por quê.'
+    'O que achei da viagem
+
+A Turquia foi uma experiência encantadora, cheia de contrastes entre o Oriente e o Ocidente. Cada lugar parecia contar
+    uma história:
+1. Istambul
+Caminhar pela praça Sultanahmet, entre a Hagia Sophia e a Mesquita Azul, foi mágico. O chamado para oração ao entardecer
+    criou um ambiente inesquecível.
+O Bazar de Especiarias e o Grande Bazar eram fascinantes, mas superlotados. Provei chás e doces turcos como lokum 
+        (delícias turcas) e baklava — doces que definem o país!.
+        O que faria diferente e por quê
+
+1. Planejamento do tempo
+
+Passei muito tempo em Istambul, deixando menos dias para lugares como Pamukkale e Capadócia.
+
+Da próxima vez, ficaria pelo menos 3 noites na Capadócia e mais um dia explorando as ruínas ao redor de Éfeso.
+
+
+
+2. Evitar multidões
+
+Fui a alguns pontos turísticos em horários de pico, como o Grande Bazar. Em vez disso, planejava visitar de manhã
+    cedo para evitar a lotação.
 )
