@@ -37,7 +37,7 @@ Idioma: O turco é a língua oficial, mas muitas pessoas falam inglês em áreas
 criaCartao(
     'Passeios', 
     'Onde passear?', 
-    'Istambul.'
+    'Istambul, GrandBazaar, Palácio Topkap, Capadócia, Pamukkale, Éfeso, Antália.'
 )
 
 criaCartao(
